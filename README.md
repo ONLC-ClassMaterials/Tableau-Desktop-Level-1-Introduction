@@ -5,3 +5,5 @@ Class is using the book:
 Title: Learning Tableau 2019
 Author: Joshua N. Milligan
 
+Class is given by ONLC Training: http://www.onlc.com - Call or Chat with us today to sign up!
+
