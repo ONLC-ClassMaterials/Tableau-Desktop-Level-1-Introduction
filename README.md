@@ -15,82 +15,82 @@ Tableau Desktop Level 1 Introduction for Novice Users (4 Day) and Expert Users (
 
 Course Outline
 
-1. Taking Off with Tableau (Novice Only)
---The Cycle of Analytics
---Connecting to Data
---Foundations of Building Visualizations
---Visualizing Data
---Putting Everything Together in a Dashboard
-
-2. Working with Data in Tableau (Novice Only)
---The Tableau Paradigm
---Connecting to Various Types of Data
---Managing Data Source Metadata
---Working with Extracts Instead of Live Connections
---Tableau File Types
---Joins and Blends
---Filtering Data
-
-3. Venturing on to Advanced Visualizations (Novice and Expert)
---Comparing Values
---Visualizing Dates and Times
---Relating Parts of the Data to the Whole
---Visualizing Distributions and Multiple Axes to Compare Different Measures
-
-4. Starting an Adventure with Calculations (Novice Only)
---Row-Level and Aggregate-Level Calculations
---Level of Detail Calculations
---Parameters
---Ad Hoc Calculations
---Performance Considerations
-
-5. Diving Deep with Table Calculations (Novice and Expert)
---Quick Table Calculations
---Relative Versus Fixed
---Custom Table Calculations
---Data Densification
-
-6. Making Visualizations that Look Great and Work Well (Novice and Expert)
---Visualization Considerations
---Leveraging Formatting in Tableau
---Adding Value to Visualizations
-
-7. Telling a Data Story with Dashboards (Novice and Expert)
---Key Concepts for Dashboards
---Designing Dashboards in Tableau
---Designing for Different Displays and Devices
---How Actions Work
---Stories
-
-8. Digging Deeper – Trends, Clustering, Distributions and Forecasting (Novice and Expert)
---Trends
---Clustering
---Distributions
---Forecasting
-
-9. Cleaning and Structuring Messy Data (Novice and Expert)
---Structuring Data for Tableau
---Dealing with Data Structure Issues
---Overview of Advanced Fixes for Data Problems
-
-10. Introducing Tableau Prep (Novice and Expert)
---Getting Prepped to Explore Tableau Prep
---Understanding the Tableau Prep Builder Interface
---Flowing with the Fundamental Paradigm
-
-11. Advanced Visualizations, Techniques, Tips, and Tricks (Novice and Expert)
---Advanced Visualizations
---Sheet Swapping and Dynamic Dashboards
---Mapping Techniques
---Using Background Images
---Animation
---Transparency
-
-12. Sharing your Data Story (Novice Only)
---Presenting, Printing, and Exporting
---Sharing with Users of Tableau Desktop or Tableau Reader
---Sharing with Users of Tableau Server, Tableau Online, and Tableau Public
-
+1. Taking Off with Tableau (Novice Only)<br/>
+--The Cycle of Analytics<br/>
+--Connecting to Data<br/>
+--Foundations of Building Visualizations<br/>
+--Visualizing Data<br/>
+--Putting Everything Together in a Dashboard<br/>
+<br/>
+2. Working with Data in Tableau (Novice Only)<br/>
+--The Tableau Paradigm<br/>
+--Connecting to Various Types of Data<br/>
+--Managing Data Source Metadata<br/>
+--Working with Extracts Instead of Live Connections<br/>
+--Tableau File Types<br/>
+--Joins and Blends<br/>
+--Filtering Data<br/>
+<br/>
+3. Venturing on to Advanced Visualizations (Novice and Expert)<br/>
+--Comparing Values<br/>
+--Visualizing Dates and Times<br/>
+--Relating Parts of the Data to the Whole<br/>
+--Visualizing Distributions and Multiple Axes to Compare Different Measures<br/>
+<br/>
+4. Starting an Adventure with Calculations (Novice Only)<br/>
+--Row-Level and Aggregate-Level Calculations<br/>
+--Level of Detail Calculations<br/>
+--Parameters<br/>
+--Ad Hoc Calculations<br/>
+--Performance Considerations<br/>
+<br/>
+5. Diving Deep with Table Calculations (Novice and Expert)<br/>
+--Quick Table Calculations<br/>
+--Relative Versus Fixed<br/>
+--Custom Table Calculations<br/>
+--Data Densification<br/>
+<br/>
+6. Making Visualizations that Look Great and Work Well (Novice and Expert)<br/>
+--Visualization Considerations<br/>
+--Leveraging Formatting in Tableau<br/>
+--Adding Value to Visualizations<br/>
+<br/>
+7. Telling a Data Story with Dashboards (Novice and Expert)<br/>
+--Key Concepts for Dashboards<br/>
+--Designing Dashboards in Tableau<br/>
+--Designing for Different Displays and Devices<br/>
+--How Actions Work<br/>
+--Stories<br/>
+<br/>
+8. Digging Deeper – Trends, Clustering, Distributions and Forecasting (Novice and Expert)<br/>
+--Trends<br/>
+--Clustering<br/>
+--Distributions<br/>
+--Forecasting<br/>
+<br/>
+9. Cleaning and Structuring Messy Data (Novice and Expert)<br/>
+--Structuring Data for Tableau<br/>
+--Dealing with Data Structure Issues<br/>
+--Overview of Advanced Fixes for Data Problems<br/>
+<br/>
+10. Introducing Tableau Prep (Novice and Expert)<br/>
+--Getting Prepped to Explore Tableau Prep<br/>
+--Understanding the Tableau Prep Builder Interface<br/>
+--Flowing with the Fundamental Paradigm<br/>
+<br/>
+11. Advanced Visualizations, Techniques, Tips, and Tricks (Novice and Expert)<br/>
+--Advanced Visualizations<br/>
+--Sheet Swapping and Dynamic Dashboards<br/>
+--Mapping Techniques<br/>
+--Using Background Images<br/>
+--Animation<br/>
+--Transparency<br/>
+<br/>
+12. Sharing your Data Story (Novice Only)<br/>
+--Presenting, Printing, and Exporting<br/>
+--Sharing with Users of Tableau Desktop or Tableau Reader<br/>
+--Sharing with Users of Tableau Server, Tableau Online, and Tableau Public<br/>
+<br/>
 View outline in Word
-
+<br/>
 XTBI20
