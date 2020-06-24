@@ -14,7 +14,7 @@ The Outline will vary, depending on which class is taken.  Here are the subjects
 Tableau Desktop Level 1 Introduction for Novice Users (4 Day) and Expert Users (2 Day): Outline Marked Accordingly
 
 <b>Course Outline</b>
-<br/>
+
  
 <br/>
 1. Taking Off with Tableau (Novice Only)<br/>
