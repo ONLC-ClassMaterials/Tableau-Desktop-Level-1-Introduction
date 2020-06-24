@@ -90,7 +90,7 @@ Course Outline
 --Presenting, Printing, and Exporting<br/>
 --Sharing with Users of Tableau Desktop or Tableau Reader<br/>
 --Sharing with Users of Tableau Server, Tableau Online, and Tableau Public<br/>
-<br/>
+<br/><br/>
 View outline in Word
-<br/>
+<br/><br/>
 XTBI20
