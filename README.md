@@ -15,6 +15,8 @@ Tableau Desktop Level 1 Introduction for Novice Users (4 Day) and Expert Users (
 
 <b>Course Outline</b>
 <br/>
+ 
+<br/>
 1. Taking Off with Tableau (Novice Only)<br/>
 --The Cycle of Analytics<br/>
 --Connecting to Data<br/>
