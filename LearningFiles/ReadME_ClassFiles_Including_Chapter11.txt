@@ -13,5 +13,5 @@ ALL Files Chapters 1-11 - you will need a login account (free) to get these file
 1.  https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau-2019-third-edition 
 
 ALL Files Chapter 1-11 - you will not need a login account to get these files
-2.  /Solutions/Students/ALL TABLEAU 2019 STUDENTS
+2. www.seesoclear.com/Solutions/Students/ALL TABLEAU 2019 STUDENTS
 Download this file:  Tableau_Level_1_Introduction_Novice_And_Experts.zip
